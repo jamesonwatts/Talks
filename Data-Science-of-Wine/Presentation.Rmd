@@ -472,8 +472,9 @@ wine %>%
   arrange(desc(points), price)
 ```
 
-## References
+## Links
 
+- https://github.com/jamesonwatts/Talks/tree/master/Data-Science-of-Wine
 - https://www.kaggle.com/zynicide/wine-reviews
 - https://www.tidyverse.org
 - https://www.tidytextmining.com/
